@@ -1,6 +1,8 @@
 # Minerva
 AutoRecon & Pentest Script By @volksec
 
+![Screenshot](https://github.com/volksec/minerva/blob/main/example.png?raw=true)
+
 # About
 
 This script automates the reconnaissance and penetration testing process for a given target. It uses various tools to perform Nmap scanning, Google Dorking, OSINT gathering, and penetration testing and enumeration.
